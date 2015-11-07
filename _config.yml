@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Kyle's Blog
 tagline:             'A tech blog that will focus on my work, faith, and some personal life events'
 description:         'A tech blog made by <a href="https://twitter.com/aggiec05" target="_blank">@aggiec05</a>.'
-url:                 http://blog.kylesoutherland.com
+url:                 http://kylesoutherland.com
 baseurl:             ''
 paginate:            5
 
