@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Kyle's Blog
+tagline:             'A tech blog that will focus on my work, faith, and some personal life events'
+description:         'A tech blog made by <a href="https://twitter.com/aggiec05" target="_blank">@aggiec05</a>.'
+url:                 http://blog.kylesoutherland.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Kyle Southerland
+  url:               https://twitter.com/aggiec05
+  email:             kyle@kylesoutherland.com
+
+# Custom vars
+version:             1.0.0
